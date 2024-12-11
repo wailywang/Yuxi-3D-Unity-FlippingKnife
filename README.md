@@ -48,4 +48,4 @@ A 3D Unity-based game where players can enjoy the thrill of flipping knives! Thi
 Contributions are welcome! If you'd like to contribute, please fork the repository and create a pull request with your proposed changes. 
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
