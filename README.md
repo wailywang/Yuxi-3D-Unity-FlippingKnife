@@ -32,3 +32,20 @@ A 3D Unity-based game where players can enjoy the thrill of flipping knives! Thi
  - Select Add project and navigate to the cloned repository.
 3. Build or run the game directly:
  - To play the game, open `Yuxi-3D-FlippyKnife.exe`.
+
+### Usage
+- Play the Game: Launch the `.exe` file to experience knife flipping in a 3D environment.
+- Modify Game Mechanics: Edit the `KnifeThrower.cs` script to tweak physics or scoring.
+- Add New Scenes: Use `JumpIntoNextScene.cs` to link additional levels or challenges.
+
+## Future Improvements
+- Add more knife types and skins.
+- Introduce a scoring system with leaderboards.
+- Implement multiplayer capabilities.
+- Expand the game environment with more interactive objects.
+
+## Contributing
+Contributions are welcome! If you'd like to contribute, please fork the repository and create a pull request with your proposed changes. 
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
