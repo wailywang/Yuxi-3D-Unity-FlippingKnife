@@ -1,4 +1,4 @@
-# Yuxi-3D-Unity-FlippingKnife
+# 3D-Unity-FlippingKnife
 
 A 3D Unity-based game where players can enjoy the thrill of flipping knives! This repository contains all the essential scripts, assets, and configuration files needed to run and modify the game.
 
@@ -31,7 +31,7 @@ A 3D Unity-based game where players can enjoy the thrill of flipping knives! Thi
  - Launch Unity Hub.
  - Select Add project and navigate to the cloned repository.
 3. Build or run the game directly:
- - To play the game, open `Yuxi-3D-FlippyKnife.exe`.
+ - To play the game, open `3D-FlippyKnife.exe`.
 
 ### Usage
 - Play the Game: Launch the `.exe` file to experience knife flipping in a 3D environment.
